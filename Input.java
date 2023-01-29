@@ -1,4 +1,4 @@
-package org.helloworld.IO;
+package org.helloworld;
 
 import java.util.Scanner;
 
@@ -21,6 +21,8 @@ public class Input {
         System.out.println("실수입력: ");
         double j = Scan.nextDouble();
         System.out.println(j);
+        
+        Scan.close();
 
 	}
 

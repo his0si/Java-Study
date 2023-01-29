@@ -1,4 +1,4 @@
-package org.helloworld.variable;
+package org.helloworld;
 
 public class Variable {
 

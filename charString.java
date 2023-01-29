@@ -1,4 +1,4 @@
-package org.helloworld.numberstring;
+package org.helloworld;
 
 public class charString {
 
